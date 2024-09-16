@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "worker-service-for-smtp", "worker-service-for-smtp.csproj", "{56204A38-5AC9-4EAB-8B65-8BFDDCB1858D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56204A38-5AC9-4EAB-8B65-8BFDDCB1858D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56204A38-5AC9-4EAB-8B65-8BFDDCB1858D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56204A38-5AC9-4EAB-8B65-8BFDDCB1858D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56204A38-5AC9-4EAB-8B65-8BFDDCB1858D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFB20AA4-67A1-4D7C-82B6-22EA3B6EE5B9}
+	EndGlobalSection
+EndGlobal
